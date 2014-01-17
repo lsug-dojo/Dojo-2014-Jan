@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="availableTasks">
+      <set>
+        <GradleTaskDescriptor>
+          <option value="Assembles the outputs of this project." name="description" />
+          <option value="assemble" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Assembles and tests this project." name="description" />
+          <option value="build" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Assembles and tests this project and all projects that depend on it." name="description" />
+          <option value="buildDependents" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Assembles and tests this project and all projects it depends on." name="description" />
+          <option value="buildNeeded" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Runs all checks." name="description" />
+          <option value="check" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Assembles the main classes." name="description" />
+          <option value="classes" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Deletes the build directory." name="description" />
+          <option value="clean" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="collectJars" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Compiles the main Groovy source." name="description" />
+          <option value="compileGroovy" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Compiles the main Java source." name="description" />
+          <option value="compileJava" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Compiles the test Groovy source." name="description" />
+          <option value="compileTestGroovy" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Compiles the test Java source." name="description" />
+          <option value="compileTestJava" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Generates Groovydoc API documentation for the main source code." name="description" />
+          <option value="groovydoc" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Assembles a jar archive containing the main classes." name="description" />
+          <option value="jar" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Generates Javadoc API documentation for the main source code." name="description" />
+          <option value="javadoc" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Processes the main resources." name="description" />
+          <option value="processResources" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Processes the test resources." name="description" />
+          <option value="processTestResources" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Runs the unit tests." name="description" />
+          <option value="test" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="Assembles the test classes." name="description" />
+          <option value="testClasses" name="name" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option value="wrapper" name="name" />
+        </GradleTaskDescriptor>
+      </set>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>toString() issues</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7.0_51" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
